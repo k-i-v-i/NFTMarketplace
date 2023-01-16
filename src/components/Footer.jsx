@@ -24,7 +24,6 @@ const Footer = () => (
 
       <div className="flex flex-[0.25] justify-center items-center">
         <p className="text-white text-right text-xs">
-          &copy;2022 All rights reserved
         </p>
       </div>
     </div>
