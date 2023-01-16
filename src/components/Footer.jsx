@@ -12,9 +12,6 @@ const Footer = () => (
           Market
         </p>
         <p className="text-white text-base text-center mx-2 cursor-pointer">
-          Artist
-        </p>
-        <p className="text-white text-base text-center mx-2 cursor-pointer">
           Features
         </p>
         <p className="text-white text-base text-center mx-2 cursor-pointer">

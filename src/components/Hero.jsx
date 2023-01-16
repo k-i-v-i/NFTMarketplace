@@ -15,11 +15,11 @@ const Hero = () => {
       <div className="md:w-3/6 w-full">
         <div>
           <h1 className="text-white text-5xl font-bold">
-            Buy and Sell <br /> Digital Arts, <br />
+            Buy and Sell <br /> Turkish Football Federation's, <br />
             <span className="text-gradient">NFTs</span> Collections
           </h1>
           <p className="text-gray-500 font-semibold text-sm mt-3">
-            Mint and collect the hottest NFTs around.
+            Collect the most popular NFTs.
           </p>
         </div>
 
@@ -36,16 +36,12 @@ const Hero = () => {
 
         <div className="w-3/4 flex justify-between items-center mt-5">
           <div>
-            <p className="text-white font-bold">1231k</p>
+            <p className="text-white font-bold">123k</p>
             <small className="text-gray-300">User</small>
           </div>
           <div>
-            <p className="text-white font-bold">152k</p>
+            <p className="text-white font-bold">466k</p>
             <small className="text-gray-300">Artwork</small>
-          </div>
-          <div>
-            <p className="text-white font-bold">200k</p>
-            <small className="text-gray-300">Artist</small>
           </div>
         </div>
       </div>
